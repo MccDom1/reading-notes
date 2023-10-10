@@ -32,6 +32,14 @@ Relative path
 A file or directory location relative to where we currently are in the file system.
 Absolute path
 A file or directory location in relation to the root of the file system.
+pwd - Where are we? Print Working Directory (It tells you what your current or present working directory is)
+ls - What’s in our current location? ls (short for list) shows a List of the contents of a directory
+With no arguments, it will just do a plain listing of our current location
+cd [location] - Change Directory (move) to specified location
+If you run cd without any arguments then it will always take you back to your home (root) directory
+mkdir - Creates a directory
+touch - Used to create, change or modify a file
+touch [file name] creates a new file with the specified file name in the current directory
  
 Refeerences
 Remember that when we supply a directory in the above command we are actually supplying a path. Is the path we specified relative or absolute? Here are a few more examples of how we can supply a directory to be created
@@ -79,6 +87,31 @@ mv
 Move - ie. Move a file or directory (can also be used to rename).
 rm
 Remove - ie. Delete a file.
+ScenarioLinks to an external site.
+cd projects
+mkdir new-project
+touch new-project/newfile.md
+cd ..
+ls projects/new-project
+pwd
+ls
+cd
+mkdir
+touch
+
+If the above commands and arguments are entered in the terminal, the below will happen:
+1.cd projects
+2.mkdir new-project
+3.touch new-project/newfile.md
+4.cd ..
+5.ls projects/new-project
+
+1.Change Directory to the projects directory
+2.Create new folder called new-project in the projects directory
+3.Create new file called newfile.md in the new-project directory
+4.Changes Directory up one level in the hierarchy in reference to the parent directory up to projects directory
+5.Shows a List of the contents of ls projects/new-project directory
+
 
 ![7721C784-0F10-452B-95B8-CC3B5EA47142](https://github.com/MccDom1/reading-notes/assets/145872110/6b150aec-8e31-4962-997e-bb1bf3d88588)
 
