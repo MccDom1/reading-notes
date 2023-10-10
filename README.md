@@ -12,4 +12,4 @@
 
 Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. Currently residing in Atl, Ga. Dominique has wore many hats hailing from entertainment, secuirty, sports, and music industry. Dominique is also the author of two Novels. Coming from a tech back ground, he is looking forward to growing in the software Dev community.
 
-https://github.com/MccDom1
+[Dominique's Git Hub Profile] https://github.com/MccDom1
