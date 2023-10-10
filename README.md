@@ -8,3 +8,4 @@
 ###### Remember why you started, on the the other side of fear is freedom.
 
 ## Author
+![EF523B18-EE30-4B42-8CBC-C21349AC0465_1_105_c](https://github.com/MccDom1/reading-notes/assets/145872110/6dae1b77-3867-4274-85ae-a9b4b985263f)
