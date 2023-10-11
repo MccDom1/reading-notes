@@ -2,12 +2,13 @@
 
 ## Growth Mindset
 
-### Those who understand Growth Mindset understand that With out struggle there is no progress!That through adversity and despair they can still be resilient and triumphant! In contrast, some one who posseses a Fixed mindset relies more on reason. That the only possible way to thier destination is through calculated and strategic planning of steps with in reason. Ironically enough whose mind is really free, whose really growing with out risk. 
+### Those who understand Growth Mindset understand that With out struggle there is no progress!That through adversity and despair they can still be resilient and triumphant! In contrast, some one who posseses a Fixed mindset relies more on reason. That the only possible way to thier destination is through calculated and strategic planning of steps with in reason. Ironically enough whose mind is really free, whose really growing with out risk
 
 #### Growth Mindset Reminders 😏
-###### There is nothing to Fear but Fear itself 
-###### JUMP!! 
-###### Remember why you started, on the the other side of fear is freedom. 🏁
+
+-There is nothing to Fear but Fear itself.
+ -JUMP!!
+ -Remember why you started, on the the other side of fear is freedom. 🏁
 
 ## Author
 
@@ -15,4 +16,4 @@
 
 Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. Currently residing in Atl, Ga. Dominique has wore many hats hailing from entertainment, secuirty, sports, and music industry. Dominique is also the author of two Novels. Coming from a tech back ground, he is looking forward to growing in the software Dev community.
 
-[Dominique's Git Hub Profile](https://github.com/MccDom1) 
+[Dominique's Git Hub Profile](https://github.com/MccDom1)
