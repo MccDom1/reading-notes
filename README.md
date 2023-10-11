@@ -36,6 +36,8 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 [R-04-HTML-Structure](<R-04 Structure Web Pages HTML>)
 
+
 [Lab03-Cloud](<L-03 -Revisions& The Cloud>)
+
 
 [Lab04-HTML-Structure](<L-04 Structure Web Pages HTML>)
