@@ -26,21 +26,21 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 [C-01-Markdown](Code-102-Notes/C-01-Markdown.md)
 
-[Lab01-B-Markdown](./Lab-01-B-Learning-Markdown.md)
+[Lab01-B-Markdown](Code-102-Notes/Lab-01-B-Learning-Markdown.md)
 
-[01career-pro-comp](./01-Career-Professional-Compentecy.md)
+[01career-pro-comp](Code-102-Notes/01-Career-Professional-Compentecy.md)
 
-[02-Coder-Pro](./02-The-Coder-Computer-Reflection.md)
+[02-Coder-Pro](Code-102-Notes/02-The-Coder-Computer-Reflection.md)
 
-[R-03-Revisions/cloud](./R-03-Revisions-The-Cloud.md)
+[R-03-Revisions/cloud](Code-102-Notes/R-03-Revisions-The-Cloud.md)
 
-[R-04-HTML-Structure](./R-04-Structure-Web-Pages-HTML.md)
-
-
-[Lab03-Cloud](./L-03-Revisions-The-Cloud.md)
+[R-04-HTML-Structure](Code-102-Notes/R-04-Structure-Web-Pages-HTML.md)
 
 
-[Lab04-HTML-Structure](./L-04-Structure-Web-Pages-HTML.md)
+[Lab03-Cloud](Code-102-Notes/L-03-Revisions-The-Cloud.md)
+
+
+[Lab04-HTML-Structure](Code-102-Notes/L-04-Structure-Web-Pages-HTML.md)
 
 # Class 201 Reading Notes
 
