@@ -44,3 +44,38 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 # Class 201 Reading Notes
 
+[Reading-01.md](Code-201-Notes/Reading-01.md)
+
+[Reading-02.md](Code-201-Notes/Reading-02.md)
+
+[Reading-03.md](Code-201-Notes/Reading-03.md)
+
+[Reading-04.md](Code-201-Notes/Reading-04.md)
+
+[Reading-05.md](Code-201-Notes/Reading-05.md)
+
+[Reading-06.md](Code-201-Notes/Reading-06.md)
+
+[Reading-07.md](Code-201-Notes/Reading-07.md)
+
+[Reading-08.md](Code-201-Notes/Reading-08.md)
+
+[Reading-09.md](Code-201-Notes/Reading-09.md)
+
+[Readin-10.md](Code-201-Notes/Reading-10.md)
+
+[Reading-11.md](Code-201-Notes/Reading-11.md)
+
+[Reading-12.md](Code-201-Notes/Reading-12.md)
+
+[Reading-13.md](Code-201-Notes/Reading-13.md)
+
+[Reading-14.md](Code-201-Notes/Reading-14.md)
+
+[Reading-15.md](Code-201-Notes/Reading-15.md)
+
+[Reading-16.md](Code-201-Notes/Reading-16.md)
+
+[Reading-17.md](Code-201-Notes/Reading-17.md)
+
+[Reading-18.md](Code-201-Notes/Reading-18.md)
