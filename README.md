@@ -24,7 +24,7 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 # Class 102 Reading Notes
 
-[C-01-Markdown](./C-01-Markdown.md)
+[C-01-Markdown](Code-102-Notes/C-01-Markdown.md)
 
 [Lab01-B-Markdown](./Lab-01-B-Learning-Markdown.md)
 

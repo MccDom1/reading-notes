@@ -37,7 +37,7 @@ How do you create a link with Markdown?
 
 Dominique's Git Hub ProfileLinks to an external site.
 
-https://mccdom1.github.io/reading-notes/Links to an external site.
+<https://mccdom1.github.io/reading-notes/Links> to an external site.
 
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
