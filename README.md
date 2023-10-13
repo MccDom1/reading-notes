@@ -40,6 +40,10 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 [R-06-Dynamic-Javascript](/Code-102-Notes/R-06-Dynamic-Javascript.md)
 
+[R-07-Programming-Javascript](/Code-102-Notes/R-07-Programming-Javascript.md)
+
+[R-08-OperationsandLoops](/Code-102-Notes/R-08-OperatorsandLoops.md)
+
 
 [Lab03-Cloud](Code-102-Notes/L-03-Revisions-The-Cloud.md)
 
