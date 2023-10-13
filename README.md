@@ -36,6 +36,10 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 
 [R-04-HTML-Structure](Code-102-Notes/R-04-Structure-Web-Pages-HTML.md)
 
+[R-05-Design-CSS](Code-102-Notes/R-05-Design-CSS.md)
+
+[R-06-Dynamic-Javascript](/Code-102-Notes/R-06-Dynamic-Javascript.md)
+
 
 [Lab03-Cloud](Code-102-Notes/L-03-Revisions-The-Cloud.md)
 
@@ -79,3 +83,4 @@ Dominique McClaney is a United State Navy Veteran. Originally form Queens, Ny. C
 [Reading-17.md](Code-201-Notes/Reading-17.md)
 
 [Reading-18.md](Code-201-Notes/Reading-18.md)
+
