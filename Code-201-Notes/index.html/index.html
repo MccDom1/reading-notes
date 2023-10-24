@@ -1,0 +1,29 @@
+<main>
+    <h1>Class 1 Lab</h1>
+    <p style="color: blue; background-color: silver;">How tall are you?</p>
+    <p style="color: gold; background-color: darkblue;">What is your favorite animal?</p>
+    <p style="color: orange (32, 208, 32); background-color: whitesmoke;">What is your moms names?</p>
+    <p style="color: black; background-color: darkcyan;">Where do you live?</p>
+  </main> 
+  <script>
+    // Get the user's responses to the questions.
+    const hieght = prompt('How tall are you?');
+    const favoriteanimal = prompt('What is your favorite animal?');
+    const momsname = prompt('What is your moms name?');
+    const wheretheylive = prompt('Where do you live?');
+
+    // Concatenate the user's responses into a reply.
+    const reply = `Greetings, ${hieght} tall human ${favoriteanimal}, I also like animals ${momsname} thats my moms name too,Ive also lived there. ${wheretheylive}.`;
+
+    // Display the reply to the user.
+    alert(reply);
+
+    // Log the question and response to the console.
+    console.log('Question 1: How tall are you?', hieght);
+    console.log('Question 2: What is your favorite animal?', favoriteanimal);
+    console.log('Question 3: What is your moms name?', momsname);
+    console.log('Question 4: Where do you live?', wheretheylive);
+  </script>
+</body>
+</html>
+  

@@ -5,3 +5,38 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 
 Paragraph 1. (semantics)
 One thing i would truly like to know is its origins.
+
+
+READING 02       Basics of HTML, CSS & JS
+One thing that stood out to me in this module was the else if function. here is a note for self simply defining its nature and use..
+
+-An else if statement is used to check multiple conditions and to execute different code blocks based on the conditions that are met.
+
+For example, the following else if statement would display a different message to the user depending on their age:
+
+JavaScript
+const age = prompt("What is your age?");
+
+if (age < 13) {
+  alert("You are not old enough to use this website.");
+} else if (age >= 13 && age < 18) {
+  alert("You are old enough to use this website, but you are not yet an adult.");
+} else {
+  alert("Welcome to the website!");
+}
+
+In this example, the first condition checks if the user's age is less than 13. If the condition is met, the code block inside the if statement is executed. The message "You are not old enough to use this website." is displayed to the user.
+
+The second condition checks if the user's age is greater than or equal to 13 and less than 18. If the condition is met, the code block inside the else if statement is executed. The message "You are old enough to use this website, but you are not yet an adult." is displayed to the user.
+
+If neither of the conditions are met, the code block inside the else statement is executed. The message "Welcome to the website!" is displayed to the user.
+
+Else if statements can be used to check any number of conditions. This makes them very useful for creating complex conditional statements.
+
+Here are some other examples of how else if statements can be used:
+
+To display different products on a web page based on the user's search query.
+To offer different discounts to customers based on their purchase amount.
+To validate different types of user input, such as email addresses, phone numbers, and passwords.
+To display different error messages to users based on the type of error that occurred.
+Else if statements are a powerful tool that can be used to create more interactive and user-friendly web applications.
