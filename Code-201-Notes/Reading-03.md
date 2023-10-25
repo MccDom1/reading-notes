@@ -103,3 +103,4 @@ A real world example of when a conditional statement should be used in a JavaScr
 6.Give an example of when a Loop is useful in JavaScript.
 -Loops are useful in JavaScript when you need to perform a task multiple times. For example, if you need to iterate over an array of elements, or if you need to repeat a code block until a certain condition is met.
 
+file:///Users/dm/Pictures/Photos%20Library.photoslibrary/resources/renders/F/F78165EA-2237-4F3F-846C-029C1452629F_1_201_a.jpeg
