@@ -1,0 +1,99 @@
+body{
+    background-color:crimson;
+    #resize{width: 200px; height: 500;
+    }
+}
+header {
+    background-color: gray ;
+    height: 150px;
+}
+h1{
+    float: left;
+    margin-left: 40px;
+    margin-right: 50px;
+    color: black;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+nav li{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+nav li a {
+    color: crimson;
+    font-size: 20px;
+    font-weight: 600;
+    cursor:pointer;
+}
+nav li a:hover{
+    color:black;
+    text-decoration:underline;
+    font-size: 22px;
+}
+main {
+    width: 960px;
+    margin: 30px auto;
+}
+#hero{
+    width: 960px;
+    height: 600px;
+    border: 3px solid crimson;
+    /* border-radius: 25px; */
+}
+#hero:hover{
+    border-radius: 0px;
+    border: 3px solid black;
+}
+main p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.lower {
+    display: inline-block;
+    max-width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+footer{
+    text-align:center;
+    background-color: crimson;
+    height: 100px;
+}
+footer p{
+    padding-top: 50px;}
+    body {
+        font-family: sans-serif;
+      }
+  
+      h1, h2, h3 {
+        margin: 0;
+      }
+  
+      input,
+      button {
+        font-size: 16px;
+        padding: 5px;
+      }
+  
+      button {
+        cursor: pointer;
+      }
+  
+      .alert {
+        padding: 5px;
+        margin-bottom: 10px;
+        border: 1px solid black;
+      }
+  
+      .correct {
+        background-color: green;
+        color: white;
+      }
+  
+      .incorrect {
+        background-color: red;
+        color: white;
+      }

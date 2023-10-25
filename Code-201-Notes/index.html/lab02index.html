@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Me Guessing Game</title>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+
+    h1, h2, h3 {
+      margin: 0;
+    }
+
+    input,
+    button {
+      font-size: 16px;
+      padding: 5px;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    .alert {
+      padding: 5px;
+      margin-bottom: 10px;
+      border: 1px solid red;
+    }
+
+    .correct {
+      background-color: blue;
+      color: ghostwhite;
+    }
+
+    .incorrect {
+      background-color: yellow;
+      color: ghostwhite;
+    }
+  </style>
+</head>
+<body>
+<main>
+    <h1>Class02lab About Me Guessing Game</h1>
+    <p style="color: blue; background-color: silver;">Coding</p>
+    <p style="color: gold; background-color: darkblue;">Is</p>
+    <p style="color: orange (32, 208, 32); background-color: whitesmoke;">Fundamental</p>
+    <p style="color: black; background-color: darkcyan;">Or is it?</p>
+  </main> 
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"href="style.css">
+  <title>About Me Guessing Game</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>About Me</h1>
+
+  <p>
+    My name is Dominique, I am African American Male from Queens,Ny
+  </p>
+
+  <h2>Education</h2>
+
+  <ul>
+    <li>Bachelor of Science From Ronald Mcdonald School House</li>
+    <li>PHD in artificial intelligence From The School Of Hard Knocks</li>
+  </ul>
+
+  <h2>Work Experience</h2>
+
+  <ul>
+    <li>Software Engineer, Code Fellows</li>
+    <li>Sailor, US Navy</li>
+  </ul>
+
+  <h2>Life Goals</h2>
+
+  <ul>
+    <li>Be able to teach people Software deve;opment.</li>
+    <li>Save the World.</li>
+    <li>Meet Harry Potter.</li>
+  </ul>
+
+  <script>
+    // Get the user's name.
+    const name = prompt("What is your name?");
+
+    // Welcome the user to the game.
+    alert(`Welcome to the About Me guessing game, ${name}!`);
+
+    // Ask the user five yes or no questions about me.
+    const questions = [
+      "Did I work for the Navy?",
+      "Do I have a degree in computer science from Ronald Mcdonald?",
+      "Do I have a PHD degree from The School Of Hard Knocks?",
+      "Do I have experience at Code Fellows?",
+      "Is a Life goal of mine to meet Harry Potter?"
+    ];
+
+    // Keep track of the user's score.
+    let score = 0;
+
+    // Ask each question and check the user's answer.
+    for (const question of questions) {
+      const answer = prompt(question);
+
+      // Normalize the user input to lowercase.
+      const normalizedAnswer = answer.toLowerCase();
+
+      // Check if the user's answer is correct.
+      if (normalizedAnswer === "yes" || normalizedAnswer === "y") {
+        score++;
+
+        // Console log a message to the user indicating that they answered correctly.
+        console.log("Correct!");
+      } else {
+        // Console log a message to the user indicating that they answered incorrectly.
+        console.log("Incorrect.");
+      }
+    }
+
+    // Display the user's final score.
+    alert(`Your final score is: ${score}/5`);
+
+    // Display a personalized goodbye message to the user.
+    alert(`Thank you for playing the About Me guessing game, ${name}! I hope you learned something new about me.`);
+  </script>
+<script src="/app.js"></script>
+</body>
+</html>
