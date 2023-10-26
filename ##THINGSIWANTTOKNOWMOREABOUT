@@ -1,5 +1,8 @@
 
 
+# THINGS I WANT TO KNOW
+
+
 Semantics
 In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
@@ -7,7 +10,45 @@ Paragraph 1. (semantics)
 One thing i would truly like to know is its origins.
 
 
-READING 02       Basics of HTML, CSS & JS
+# READIN01
+Notes to self for understanding
+Describe how HTML, CSS, and JS files are “parsed” in the browser.
+
+When a web browser loads a web page, it needs to parse the HTML, CSS, and JavaScript files in order to render the page correctly. Parsing is the process of breaking down the code into smaller pieces that the browser can understand.
+HTML parsing:
+
+The browser starts by parsing the HTML file. This involves identifying the different elements in the HTML code, such as div, p, and img. The browser also needs to understand the relationships between the different elements. For example, the browser needs to know that the img element is a child of the div element.
+
+Once the browser has parsed the HTML code, it can start to build the Document Object Model (DOM). The DOM is a tree-like structure that represents the content of the web page. Each element in the HTML code corresponds to a node in the DOM.
+
+CSS parsing:
+
+Once the browser has parsed the HTML code and built the DOM, it can start to parse the CSS files. The CSS files contain the styling information for the web page. The browser uses this information to determine how to render the different elements in the DOM.
+
+The browser starts by parsing the CSS files line by line. It identifies the different CSS selectors and properties, and it builds a CSS Object Model (CSSOM). The CSSOM is a data structure that represents the styling information for the web page.
+
+JavaScript parsing:
+
+Once the browser has parsed the HTML and CSS files, it can start to parse the JavaScript files. JavaScript is a programming language that can be used to add interactivity to web pages.
+
+The browser parses the JavaScript files line by line. It identifies the different JavaScript statements and expressions, and it builds a JavaScript Object Model (JSOM). The JSOM is a data structure that represents the JavaScript code for the web page.
+
+Once the browser has parsed the HTML, CSS, and JavaScript files, it can start to render the web page. This involves using the DOM, CSSOM, and JSOM to determine how to display the content of the web page.
+
+
+HTML parsing:
+
+The browser starts by parsing the HTML file. This involves identifying the different elements in the HTML code, such as div, p, and img. The browser also needs to understand the relationships between the different elements. For example, the browser needs to know that the img element is a child of the div element.
+
+Once the browser has parsed the HTML code, it can start to build the Document Object Model (DOM). The DOM is a tree-like structure that represents the content of the web page. Each element in the HTML code corresponds to a node in the DOM.
+
+
+
+
+
+
+
+# READING 02       Basics of HTML, CSS & JS
 One thing that stood out to me in this module was the else if function. here is a note for self simply defining its nature and use..
 
 -An else if statement is used to check multiple conditions and to execute different code blocks based on the conditions that are met.
@@ -40,3 +81,26 @@ To offer different discounts to customers based on their purchase amount.
 To validate different types of user input, such as email addresses, phone numbers, and passwords.
 To display different error messages to users based on the type of error that occurred.
 Else if statements are a powerful tool that can be used to create more interactive and user-friendly web applications.
+
+
+
+
+
+# Readings 03: HTML Lists, Control Flow with JS, and the CSS Box Model
+- Something id like to know more about from this lab is Ordered and Unordered lists.
+
+1.When should you use an unordered list in your HTML document? Ive already answered the question but i am looking forward to applying it in future labs.
+
+
+
+
+
+
+# Readin04 HTML Links, JS Functions, and Intro to CSS Layout
+This one does it for me What is the difference between a parameter and an argument?
+-A parameter is a variable that is defined in a function declaration. An argument is a value that is passed to a function when it is invoked.
+
+In the greet() function example above, the parameter is name and the argument is "Bard".
+
+When a function is invoked, the arguments are passed to the function parameters and the function body is executed.
+The idea a function being invoked for execution has not quite processed wiith me just yet. I am looking forward to learning more in future labs.
