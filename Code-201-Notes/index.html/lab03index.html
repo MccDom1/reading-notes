@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet"href="style.css">
   <title>About Me Guessing Game</title>
   <style>
     body {
@@ -24,7 +25,7 @@
     .alert {
       padding: 5px;
       margin-bottom: 10px;
-      border: 1px solid red;
+      border: 1px solid green;
     }
 
     .correct {
@@ -38,31 +39,19 @@
     }
   </style>
 </head>
+<script src="/app.js"></script>
 <body>
-<main>
-    <h1>Class02lab About Me Guessing Game</h1>
-    <p style="color: blue; background-color: silver;">Coding</p>
-    <p style="color: gold; background-color: darkblue;">Is</p>
-    <p style="color: orange (32, 208, 32); background-color: whitesmoke;">Fundamental</p>
-    <p style="color: black; background-color: darkcyan;">Or is it?</p>
-  </main> 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet"href="style.css">
-  <title>About Me Guessing Game</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>About Me</h1>
-
-  <p>
-    My name is Dominique, I am African American Male from Queens,Ny
+    <main>
+        <h1>Class02-03lab About Me Guessing Game</h1>
+.        <p style="color: blue; background-color: silver;">Coding</p>
+        <p style="color: gold; background-color: darkblue;">Is</p>
+        <p style="color: orange (32, 208, 32); background-color: whitesmoke;">Fundamental</p>
+        <p style="color: black; background-color: darkcyan;">Or is it?</p>
+      </main> 
+   
+      <h1>About Me</h1>
+!    <p>
+     My name is Dominique, I am African American Male from Queens,Ny
   </p>
 
   <h2>Education</h2>
@@ -86,6 +75,35 @@
     <li>Save the World.</li>
     <li>Meet Harry Potter.</li>
   </ul>
+
+  **Top Ten**
+
+  <ol id="top-ten">
+    <li>Harry Potter</li>
+    <li>Transformers</li>
+    <li>Act Of Valor</li>
+    <li>Dead Poets Society</li>
+    <li>Avengers</li>
+    <li>Training Day</li>
+    <li>Super Bad</li>
+    <li>The Fault In Our Stars</li>
+    <li>Predator</li>
+    <li>Die Hard</li>
+  </ol>
+
+  **Unordered list for work experience and education**
+
+  <ul id="work-experience">
+    <li>Software Engineer, Code Fellows</li>
+    <li>Sailor, US Navy</li>
+  </ul>
+
+  <ul id="education">
+    <li>Bachelor of Science From Ronald Mcdonald School House</li>
+    <li>PHD in artificial intelligence From The School Of Hard Knocks</li>
+  </ul>
+
+  **Guessing game question with numeric input**
 
   <script>
     // Get the user's name.
@@ -130,28 +148,30 @@
 
     // Display a personalized goodbye message to the user.
     alert(`Thank you for playing the About Me guessing game, ${name}! I hope you learned something new about me.`);
-  </script>
-<script src="/app.js"></script>
-</body>
-</html>
-<ol id="top-ten">
-  <li>Harry Potter</li>
-  <li>Transformers</li>
-  <li>Act Of Valor</li>
-  <li>Dead Poets Society</li>
-  <li>Avengers</li>
-  <li>Training Day</li>
-  <li>Super Bad</li>
-  <li>The Fault In Our Stars</li>
-  <li>Predator</li>
-  <li>Die Hard</li>
-</ol>
-<ul id="work-experience">
-  <li>Software Engineer, Code Fellows</li>
-  <li>Sailor, US Navy</li>
-</ul>
+    // Get the user's guess.
+    const guess = prompt("Guess a number between 1 and 100:");
 
-<ul id="education">
-  <li>Bachelor of Science From Ronald Mcdonald School House</li>
-  <li>PHD in artificial intelligence From The School Of Hard Knocks</li>
-</ul>
+    // Check if the guess is correct.
+    if (guess === 50) {
+      // Display a correct alert.
+      alert("Correct!");
+    } else {
+      // Display an incorrect alert.
+      alert(guess > 50 ? "Too high!" : "Too low!");
+    }
+
+    // Give the user four tries to get the correct answer.
+    let attempts = 4;
+    while (guess !== 50 && attempts > 0) {
+      attempts--;
+      guess = prompt("Guess again:");
+    }
+
+    // If the user runs out of attempts, tell them the correct answer.
+    if (attempts === 0) {
+      alert("The correct answer is 50.");
+    }
+    
+  </script>
+  
+    
