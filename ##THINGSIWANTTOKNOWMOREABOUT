@@ -104,3 +104,13 @@ In the greet() function example above, the parameter is name and the argument is
 
 When a function is invoked, the arguments are passed to the function parameters and the function body is executed.
 The idea a function being invoked for execution has not quite processed wiith me just yet. I am looking forward to learning more in future labs.
+
+#  Read: Class 05 Readings: Images, Color, Text
+Something I;d like to know more about in realtion to this topic is How to improve accessibility of images in an HTML document:
+
+In addition to using the alt attribute, there are a few other things you can do to improve the accessibility of images in your HTML documents:
+
+Use descriptive filenames for your images.
+Use the longdesc attribute to provide a longer description for complex images.
+Use the figure element to group related images together.
+Use the figcaption element to provide a caption for an image.
