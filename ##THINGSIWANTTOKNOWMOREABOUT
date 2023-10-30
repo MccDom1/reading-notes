@@ -127,3 +127,17 @@ const dog = {
     console.log(`${this.name} is ${this.age*7} in human years`);
   }
   Overall, the this keyword is a powerful tool that can be used to make your code more concise, reusable, and object-oriented.
+
+  # Read: Class 07
+  # Readings: Object-Oriented Programming, HTML Tables
+  -Something I'd like to know more about in realtion to this topic is Domain modeling
+  Domain Modeling
+
+Explain why we need domain modeling.
+-Domain modeling is the process of creating a conceptual model of a problem domain. It is a critical aspect of software development, as it helps to ensure that the software meets the needs of the users.
+There are several reasons why we need domain modeling:
+
+To better understand the problem domain. Domain modeling helps us to identify the key concepts in the problem domain and their relationships to each other. This understanding is essential for developing a solution that meets the needs of the users.
+To communicate the problem domain to others. Domain modeling provides a common way to communicate about the problem domain to stakeholders, such as users, developers, and business analysts. This helps to ensure that everyone has a shared understanding of the problem and the desired solution.
+To validate the solution. Domain modeling can be used to validate the proposed solution by ensuring that it is consistent with the problem domain. This helps to identify and correct any errors or omissions in the solution.  
+over all my question is how did this become the helper that it is for users.
