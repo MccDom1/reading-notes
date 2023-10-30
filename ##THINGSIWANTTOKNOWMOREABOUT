@@ -106,7 +106,7 @@ When a function is invoked, the arguments are passed to the function parameters 
 The idea a function being invoked for execution has not quite processed wiith me just yet. I am looking forward to learning more in future labs.
 
 #  Read: Class 05 Readings: Images, Color, Text
-Something I;d like to know more about in realtion to this topic is How to improve accessibility of images in an HTML document:
+Something I'd like to know more about in realtion to this topic is How to improve accessibility of images in an HTML document:
 
 In addition to using the alt attribute, there are a few other things you can do to improve the accessibility of images in your HTML documents:
 
@@ -114,3 +114,16 @@ Use descriptive filenames for your images.
 Use the longdesc attribute to provide a longer description for complex images.
 Use the figure element to group related images together.
 Use the figcaption element to provide a caption for an image.
+
+
+# Read: Class 06
+# Readings: Problem Domain, Objects, and the DOM
+-Something I'd like to know more about in realtion to this topic is How to improve  my cod evaluation using the This command
+const dog = {
+  name: 'Spot',
+  age: 2,
+  color: 'white with black spots',
+  humanAge: function (){
+    console.log(`${this.name} is ${this.age*7} in human years`);
+  }
+  Overall, the this keyword is a powerful tool that can be used to make your code more concise, reusable, and object-oriented.
