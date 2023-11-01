@@ -141,3 +141,14 @@ To better understand the problem domain. Domain modeling helps us to identify th
 To communicate the problem domain to others. Domain modeling provides a common way to communicate about the problem domain to stakeholders, such as users, developers, and business analysts. This helps to ensure that everyone has a shared understanding of the problem and the desired solution.
 To validate the solution. Domain modeling can be used to validate the proposed solution by ensuring that it is consistent with the problem domain. This helps to identify and correct any errors or omissions in the solution.  
 over all my question is how did this become the helper that it is for users.
+
+
+# Class 08
+## Readings: CSS Layout
+
+Something id like to know more  about are specific ways that flexbox can be used to achieve your long-term goals here are some facts about that  that i will keep in mind,
+Here are some specific ways that flexbox can be used to achieve your long-term goals:
+
+Create responsive layouts: Flexbox makes it easy to create layouts that respond to different devices and screen sizes. This is important for creating websites and web applications that are accessible to all users.
+Build complex layouts: Flexbox can be used to create complex layouts with multiple columns, rows, and nested elements. This is useful for creating dashboards, product pages, and other types of complex layouts.
+Improve accessibility: Flexbox is more accessible than other layout methods, such as float. This is important for creating websites and web applications that are accessible to all users, including users with disabilities.
