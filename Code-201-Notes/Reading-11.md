@@ -33,21 +33,13 @@ Educational content: Many educational websites and online courses now use video 
 To add fallback content to the <video> element, you can use the <source> element. The <source> element specifies a different video file to play if the first video file does not play.
 
 4.Write a very short story where <audio> and <video> are characters.
--<audio> and <video> were once best friends. They lived together in a small code editor, and they loved to play together.
+-Audio and Video were best friends. They lived in a code editor and loved to play together. Audio would tell Video stories about the world outside of the code editor, and Video would listen intently and sometimes dream about the places that Audio described.
 
-Every day, <audio> would tell <video> stories about the world outside of the code editor. <video> would listen intently, and sometimes he would even dream about the places that <audio> described.
+One day, Audio told Video about a new website that was being built that would allow people to watch and listen to all sorts of content, including videos and music. Video was excited because he had always dreamed of being able to share his stories with the world, but he was also scared because he didn't know if he was good enough.
 
-One day, <audio> told <video> about a new website that was being built. This website would allow people to watch and listen to all sorts of content, including videos and music.
+Audio reassured Video and told him that he was the most talented video element he knew, and that his stories were unique and special. Video took a deep breath and decided to go for it. He submitted his stories to the website, and a few weeks later, he was accepted.
 
-<video> was excited. He had always dreamed of being able to share his stories with the world. But he was also scared. He didn't know if he was good enough to be on the website.
-
-<audio> reassured <video>. He told him that he was the most talented video element he knew. He told him that his stories were unique and special.
-
-<video> took a deep breath and decided to go for it. He submitted his stories to the website, and a few weeks later, he was accepted.
-
-<video> was thrilled. He was finally able to share his stories with the world. And it was all thanks to his best friend, <audio>.
-
-<audio> was proud of <video>. He knew that his friend was destined for great things. And he was excited to see what the future held for both of them.
+Video was thrilled because he was finally able to share his stories with the world, and it was all thanks to his best friend, Audio. Audio was proud of Video and knew that his friend was destined for great things. He was excited to see what the future held for both of them.
 
 
 
