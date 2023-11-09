@@ -200,3 +200,44 @@ To bring Chart.js into your project, you can use a CDN or install it as a packag
 ## Local Storage and How To Use It On Websites
 
 Something id like to know more about is Local storage can store what type of data? How would you convert it to that type before storing? -Local storage can store any type of data that can be serialized into a string. This includes text, numbers, booleans, arrays, and objects. However, data that is stored in local storage must be converted into a string before it can be stored. This can be done using the JSON.stringify() method.
+
+# Read: Class 09
+# HTML Forms
+- Something id like to know more about is Why are forms so important in web development?
+-Forms are an essential part of web development. They allow users to interact with websites and web applications, and to provide information to the server. Forms are used for a variety of purposes, such as:
+
+Collecting user feedback
+Allowing users to create accounts
+Processing payments
+Submitting orders
+Contacting the website owner
+
+# Class 10
+## Readings: Debugging
+
+Something id like to know more about Name some key differences between a Syntax Error and a Logic Error.
+-Characteristic	Syntax Error	Logic Error
+Definition	An error that occurs when the code does not follow the JavaScript syntax rules.	An error that occurs when the code is syntactically correct, but the logic of the code is flawed.
+Behavior	Prevents the program from running.	The program runs, but produces incorrect or unexpected results.
+Debug process	Can be identified by reading the error message produced by the JavaScript engine.	More difficult to identify, as the program is still able to run. Requires the developer to step through the code and identify the logical error.
+
+# Read: Class 11
+## Readings: Audio, Video, Images
+
+Something id like to know more about is Explain how the ability to use video and audio on the web has evolved since the early 2000s.
+-The ability to use video and audio on the web has evolved significantly since the early 2000s. In the early days of the web, video and audio streaming was unreliable and slow, and only a small percentage of users had broadband internet access. This limited the use of video and audio on the web to mostly text-based content, such as news articles and blog posts.
+
+However, as internet speeds have increased and streaming technology has improved, video and audio have become increasingly popular on the web. Today, video and audio are used in a wide variety of web content, including:
+
+Streaming video and audio services: Services such as Netflix, Hulu, and Spotify allow users to stream video and audio content on demand.
+Social media: Social media platforms such as YouTube and TikTok allow users to share and watch videos.
+Video games: Many online video games now use video and audio to create immersive and engaging experiences.
+Educational content: Many educational websites and online courses now use video and audio to teach students about a variety of topics.
+
+# Read: Class 12
+## Readings: Chart.js, Canvas
+
+Something id like to know more about is What is Chart.js and how it can be brought into your project?
+-Chart.js is a JavaScript library for creating charts and graphs. It is easy to use and supports a wide variety of chart types, including bar charts, line charts, pie charts, and radar charts.
+
+To bring Chart.js into your project, you can use a CDN or install it as a package using a package manager like npm or Yarn.

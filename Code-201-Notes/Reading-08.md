@@ -36,8 +36,4 @@ Flexbox is more accessible than float. It is easier for users with screen reader
 
 
 2.How does this topic connect with your long term goals?
-<<<<<<< HEAD
 -Learning about flexbox is an important step towards becoming a better web developer. Flexbox is a powerful layout model that can be used to create complex, responsive, and accessible layouts. By learning how to use flexbox effectively, you will be able to create better websites and web applications for your users.
-=======
--Learning about flexbox is an important step towards becoming a better web developer. Flexbox is a powerful layout model that can be used to create complex, responsive, and accessible layouts. By learning how to use flexbox effectively, you will be able to create better websites and web applications for your users.
->>>>>>> a323205 (adding reading notes 07)
