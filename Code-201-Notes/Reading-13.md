@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Read: Class 13
 
 Local storage is an important tool for web developers because it allows them to store data on the client-side, which can improve the user experience, performance, and application state of a web application.
@@ -29,3 +30,6 @@ Data that is frequently updated: Local storage is not ideal for storing data tha
 3.Local storage can store what type of data? How would you convert it to that type before storing?
 -Local storage can store any type of data that can be serialized into a string. This includes text, numbers, booleans, arrays, and objects. However, data that is stored in local storage must be converted into a string before it can be stored. This can be done using the JSON.stringify() method.
 
+=======
+test
+>>>>>>> ebff0e7 (test)
