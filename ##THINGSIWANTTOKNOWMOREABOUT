@@ -119,7 +119,7 @@ Use the figcaption element to provide a caption for an image.
 # Read: Class 06
 # Readings: Problem Domain, Objects, and the DOM
 -Something I'd like to know more about in realtion to this topic is How to improve  my cod evaluation using the This command
-const dog = {
+const dog = 
   name: 'Spot',
   age: 2,
   color: 'white with black spots',
