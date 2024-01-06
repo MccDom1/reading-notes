@@ -1,6 +1,7 @@
 # Terminal Practice
 
 1. ## The Command Line
+
 What I Learned:
 The command line is like a chat with the computer.
 It helps you do things on the computer by typing commands.
@@ -31,18 +32,18 @@ What I Learned:
 A cheat sheet is like a quick list of important commands.
 It's useful to quickly remember how to do things.
 
-# Observations:
+# Observations
 
 Understanding the command line is crucial for efficient interaction with a Linux system.
 Navigation commands like cd and file manipulation commands like cp and mv are fundamental.
 Permissions and ownership play a significant role in file management.
 
-# Ah-Hah Moments:
+# Ah-Hah Moments
 
 Realizing the power of command line efficiency compared to graphical interfaces.
 Learning about wildcards and their usefulness in file manipulation.
 
-# Interesting Code Snippets:
+# Interesting Code Snippets
 
 Understanding and using the chmod command for permissions.
 Experimenting with wildcard patterns in file operations.
